@@ -19,6 +19,6 @@ define('DPCAMPER_PLUGIN_URL', plugin_dir_url(__FILE__));
 // Include required files
 require_once DPCAMPER_PLUGIN_DIR . 'includes/camper-post-type.php';
 require_once DPCAMPER_PLUGIN_DIR . 'includes/options-page.php';
-//require_once DPCAMPER_PLUGIN_DIR . 'includes/fetch-data.php';
+require_once DPCAMPER_PLUGIN_DIR . 'includes/fetch-data.php';
  
 ?>
